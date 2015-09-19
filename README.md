@@ -1,1 +1,1 @@
-# laptop
+# Laptops config
